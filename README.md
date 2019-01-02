@@ -1,1 +1,1 @@
-# scope-exercises
+# Scope Exercises
